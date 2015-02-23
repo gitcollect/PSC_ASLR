@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1423495682 source:c:\users\françois\desktop\raccourcis\programmation\c\cachecache\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stats.h"
+	"actif.h"
+	"constantes.h"
+
+1417441350 c:\users\françois\desktop\raccourcis\programmation\c\cachecache\stats.h
+
+1417442901 source:c:\users\françois\desktop\raccourcis\programmation\c\cachecache\stats.c
+	<stdio.h>
+	<stdlib.h>
+
+1423497092 source:c:\users\françois\desktop\raccourcis\programmation\c\cachecache\actif.c
+	"stats.h"
+	<time.h>
+	"constantes.h"
+
+1423496191 c:\users\françois\desktop\raccourcis\programmation\c\cachecache\actif.h
+
+1423498310 c:\users\françois\desktop\raccourcis\programmation\c\cachecache\constantes.h
+
