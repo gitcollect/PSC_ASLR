@@ -21,3 +21,25 @@
 
 1423498310 c:\users\françois\desktop\raccourcis\programmation\c\cachecache\constantes.h
 
+1424687510 source:c:\users\paul\documents\github\psc_aslr\cachecache\actif.c
+	"stats.h"
+	<time.h>
+	"constantes.h"
+
+1424687510 c:\users\paul\documents\github\psc_aslr\cachecache\stats.h
+
+1424687510 c:\users\paul\documents\github\psc_aslr\cachecache\constantes.h
+
+1424687510 source:c:\users\paul\documents\github\psc_aslr\cachecache\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stats.h"
+	"actif.h"
+	"constantes.h"
+
+1424687510 c:\users\paul\documents\github\psc_aslr\cachecache\actif.h
+
+1424687510 source:c:\users\paul\documents\github\psc_aslr\cachecache\stats.c
+	<stdio.h>
+	<stdlib.h>
+

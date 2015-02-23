@@ -34,8 +34,8 @@ void initCrible(long min, long max, int etatOptimal[],int etatCourant[])
     int i=0;
     for(i=0;i<max-min+1;i++)
     {
-        etatCourant[i]=true;
-        etatOptimal[i]=true;
+        etatCourant[i]=1;
+        etatOptimal[i]=1;
     }
 }
 void crible(long min,long max, int* tab[],long taille, int* a, int etatOptimal[])
@@ -60,7 +60,7 @@ void crible(long min,long max, int* tab[],long taille, int* a, int etatOptimal[]
                 int j=0;
                 while(etatCourant[j]==0)
                 {
-                    j++
+                    j++;
                 }
                 printf("Il ne reste qu'une ligne, la numero %ld",j);
                 return;
