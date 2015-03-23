@@ -1,3 +1,5 @@
+#ifndef STATS_H
+#define STATS_H
 
 long compare(long m, long n);
 void tri(long tab[],long length);
@@ -11,3 +13,5 @@ long nbInf(long tab[],long length,long m);
 long quartile(long tab[],long length,long q);
 long quartileRelatif(long tab[],long length,long q);
 void synthese(long tab[],long length, long seuilInf, long seuilSup);
+
+#endif

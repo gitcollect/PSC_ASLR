@@ -6,11 +6,15 @@
 	"actif.h"
 	"constantes.h"
 
+1424687510 s.h"
+
 1417441350 c:\users\françois\desktop\raccourcis\programmation\c\cachecache\stats.h
 
 1417442901 source:c:\users\françois\desktop\raccourcis\programmation\c\cachecache\stats.c
 	<stdio.h>
 	<stdlib.h>
+
+1424687510 
 
 1423497092 source:c:\users\françois\desktop\raccourcis\programmation\c\cachecache\actif.c
 	"stats.h"
@@ -42,4 +46,35 @@
 1424687510 source:c:\users\paul\documents\github\psc_aslr\cachecache\stats.c
 	<stdio.h>
 	<stdlib.h>
+
+1427123002 source:/home/guillaume/Documents/PSC/Programmation/PSC_ASLR/cachecache/actif.c
+	"stats.h"
+	<time.h>
+	"constantes.h"
+
+1427124593 /home/guillaume/Documents/PSC/Programmation/PSC_ASLR/cachecache/stats.h
+
+1427124551 /home/guillaume/Documents/PSC/Programmation/PSC_ASLR/cachecache/constantes.h
+
+1427123002 source:/home/guillaume/Documents/PSC/Programmation/PSC_ASLR/cachecache/main.c
+	<stdio.h>
+	<stdlib.h>
+	"stats.h"
+	"actif.h"
+	"constantes.h"
+
+1427124626 /home/guillaume/Documents/PSC/Programmation/PSC_ASLR/cachecache/actif.h
+
+1427123002 source:/home/guillaume/Documents/PSC/Programmation/PSC_ASLR/cachecache/stats.c
+	<stdio.h>
+	<stdlib.h>
+
+1427124453 source:/home/guillaume/Documents/PSC/Programmation/PSC_ASLR/cachecache/crible.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"constantes.h"
+	"crible.h"
+
+1427124521 /home/guillaume/Documents/PSC/Programmation/PSC_ASLR/cachecache/crible.h
 

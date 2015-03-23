@@ -1,4 +1,6 @@
 
+#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 #include "constantes.h"
 #include "crible.h"

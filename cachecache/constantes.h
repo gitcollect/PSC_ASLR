@@ -1,3 +1,6 @@
+#ifndef CONSTANTE_H
+#define CONSTANTE_H
+
 //paramètres à modifier pour les tests
 #define NBITERATIONS 1000       //sauf erreur je ne me sers plus actuellement de cette constante
 #define SEUIL_INF -100          //seuil inferieur des differences de temps acceptables-inutile désormais je crois
@@ -9,3 +12,4 @@
 #define NBCRIBLE 10             //nombre d'étapes dans la troisième phase
 #define CHANCES_RETOUR 10       //à terme, devrait contenir en pourcent la probabilité qu'on accorde pour faire des sauts
                                 //dans la troisième phase
+#endif
